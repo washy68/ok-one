@@ -7,7 +7,7 @@ fi
 echo ${VER}
 
 if [[ -z "${Vless_Path}" ]]; then
-  Vless_Path="/vl555"
+  Vless_Path="/e3ea85c3-4e66-4b3d-8644-ec7dbccc3202-vless"
 fi
 echo ${Vless_Path}
 
@@ -17,7 +17,7 @@ fi
 echo ${Vless_UUID}
 
 if [[ -z "${Vmess_Path}" ]]; then
-  Vmess_Path="vm666"
+  Vmess_Path="/e3ea85c3-4e66-4b3d-8644-ec7dbccc3202-vmess"
 fi
 echo ${Vmess_Path}
 
